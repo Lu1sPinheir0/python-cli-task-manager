@@ -28,5 +28,5 @@ Make sure you have Python 3.13 installed.
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/LuisPinheiro/python-cli-task-manager.git](https://github.com/LuisPinheiro/python-cli-task-manager.git)
+git clone https://github.com/Lu1sPinheir0/python-cli-task-manager.git
 cd python-cli-task-manager
