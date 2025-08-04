@@ -1,0 +1,16 @@
+# Created by venv
+# The .venv folder is where your virtual environment lives.
+.venv/
+
+# Ignore Python's compiled files
+__pycache__/
+*.pyc
+
+# Your specific data file
+Task_lists.json
+
+# IDEs (e.g., VS Code)
+.vscode/
+
+# Other temporary files
+.DS_Store # macOS
